@@ -34,6 +34,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Header Navigation Style Attributes*/
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,7 +52,7 @@ header a {
     text-decoration: none;
 }
 
-/*Hero Style Attributes*/
+/*Hero/Jumbotron Style Attributes*/
 
 .hero {
     height: 800px;
